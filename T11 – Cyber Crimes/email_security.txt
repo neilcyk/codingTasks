@@ -1,0 +1,56 @@
+*What three things should have alerted you to the fact that the email from the bank was not legitimate?
+1. Banks do not request urgent actions, such as completing an e-form in an attached file. This urgency is a tactic to bypass rational decision-making.
+
+2. The email’s title is suspicious. Legitimate companies proofread their emails and use formal, professional titles for marketing or regulatory updates. A title like "complete forms" is highly unusual for a legitimate bank and should raise immediate concern.
+
+3. Legitimate organizations address customers by name. Generic salutations like "Hello," "Dear User," or "Valued Member" are typically used in mass emails, especially unsolicited ones.
+
+4. Banks rarely, if ever, request sensitive information via email. Requests for login credentials, credit card details, or other personal data are a major red flag.
+
+5. Unexpected attachments can be dangerous. Files with extensions like .exe, .zip, .pdf, or .docx may contain malware or viruses. Opening or executing these files is highly risky and should be avoided.
+
+6. It is not standard procedure for banks to freeze accounts in this manner. Such actions are typically communicated through secure, official channels.
+
+
+*Do you think it is possible your computer is infected with malware based on the given email scenario? 
+
+Yes, the computer is likely infected by malware, as evidenced by its significantly reduced performance and unusually high internet traffic. This high traffic could indicate that malicious software is attempting to download or upload data without the user’s consent, potentially compromising sensitive information. Additionally, unauthorized programs may be running silently in the background, consuming a disproportionate amount of system resources, such as memory and processing power. These programs often execute tasks like mining cryptocurrency, sending spam emails, or acting as part of a botnet, further degrading the computer’s performance. 
+
+*Write a paragraph to train fellow employees on phishing, social engineering, and how to avoid malware infection.
+
+Tips to Protect Against Phishing, Social Engineering, and Malware
+Cybercrimes like phishing, social engineering, and malware are increasingly common. Here’s how to identify and defend against these threats:
+
+Phishing
+Phishing involves deceptive emails or messages designed to steal sensitive information like passwords or credit card numbers. To avoid falling victim:
+
+Examine URLs: Hover over links, including the sender’s email address, to verify their true destination. Be cautious if the hyperlink and the displayed text differ.
+Avoid Clicking Suspicious Links or Attachments: Never open unexpected attachments, especially file types like .exe, .bat, or .zip.
+
+Watch for Red Flags: Look for misspellings, generic greetings (e.g., “Dear Customer”), or unusual wording. Legitimate organizations use your name and avoid such errors.
+
+Protect Personal Data: Never share sensitive information through email or online forms unless you’ve verified the source.
+
+If you’ve interacted with a phishing attempt, stay calm. Change your passwords to stronger ones, perform a full antivirus scan, and enable Multi-Factor Authentication (MFA) for added security.
+
+Social Engineering
+Social engineering manipulates individuals through deception or psychological tactics to gain access to confidential information. Common methods include:
+
+Baiting: Offers of discounted goods or services that seem too good to be true.
+
+Urgent Requests: Demands for money or data under pressure. Always verify requests using official contact details found on legitimate materials, not those provided in the communication.
+To prevent these attacks, avoid oversharing on social media, as attackers may use this information to manipulate you. If you manage a team, ensure everyone is educated on social engineering risks and responses.
+
+Malware
+Malware refers to malicious software that can steal data, disrupt systems, or cause damage. To avoid infection:
+
+Avoid Untrusted Downloads: Don’t open attachments or files from unknown sources, especially in unsolicited emails.
+
+Enable Firewalls: Use firewalls to block unauthorized access.
+
+Stay Alert Online: Avoid clicking pop-ups or ads, as they often carry malicious code.
+
+Scan External Devices: Use antivirus tools to scan USB drives or external storage before accessing files.
+
+General Protection Tips
+Regularly scan your devices with a trusted antivirus tool, update software frequently, and consider paid antivirus programs for advanced features like safe browsing and password management. By staying vigilant and proactive, you can minimize the risk of falling victim to cybercrimes.

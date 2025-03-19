@@ -1,0 +1,45 @@
+
+Cyber security categories
+systems: firewalls, encryption, and passwords.
+software and platform (web and mobile applications): best coding practices 
+infrastructure security: network and hardware security,  cyber-physical, physical security. 
+
+1. human, organisational, and regulatory aspects; and
+2. methods of attack and defence
+
+
+Malware
+1. Standalone or dependent
+2. Persistent or transient
+3. Layer of the system
+4. Automatic or activated
+5. Static or dynamically updated
+
+
+
+--------------------------------
+What three things should have alerted you to the fact that the email from the bank was not legitimate?
+1. Bank never ask customer such a urgent task as titled and fill up the eform in the attached file. These create a sense of urgency to bypass rational thinking.
+2. I can see the e-mail title. Legitimate companies typically proofread their emails and use formal title for marketing or regulationm updaes. "complete forms" is definatly odd title issued from the legitimate bank. We should pay highly attention to this kind of e-mail.
+3. Legitimate organizations often use customer name in correspondence. Only mass delivery of unsoliced mail using non-personalized salutations like "Hello", "Dear User," or "Valued Member."
+4.Legitimate companies rarely, if ever, request requests for sensitive information asking for login credentials, credit card information, or other sensitive data.
+5. Unexpected attachments with file types like .exe, .zip, .pdf, or .docx, can contain malware or viruses. It is very dangerous open and execute these type of executable files.
+6. And the action taken from bank is not common to freeze customer account throught this way.
+
+
+Do you think it is possible your computer is infected with malware based on the given email scenario? 
+Yes, the computer probaly infected by malware because it is very slow and we can varify by the huge internet traffic. Some kind of internet connection try to download information from the computer. Besides, unauthorised program may running in the background allocated itself most of the memories resources from the computer
+
+
+Write a paragraph to train fellow employees on phishing, social engineering, and how to avoid malware infection (200–400 words)
+
+Dear all, please see below the advice when you encounter phishing, social engineering and malware infection.  
+
+The frist common type of cyber crime is phishing e-mail. It is deceptive emails or messages to trick you by revealing sensitive information like passwords, credit card numbers, or personal data. When you receive dult e-mail, you must aution and pay highly attention to the content. First, hover all the URL in the e-mail including the sender e-mail. Check the 'real' hyperlinked at the status bar at the bottom of the screen. (not the hyperlink shown in the e-mail). You might see they are two different URLs. Do not click or open any suspicious links or attachment. Particularly they are .exe, .bat or .zip.  You may see suspicious wording that not common used by legimate organisation. misspellings the name or typo in domain name. Be cautious the emails, even if they appear to be from someone you know.  This is also common from people's computer infected by malware while it spread out according to their contact list. Do not share any personal or sensitive information. Particularly if the e-mail request you send them all the above information throught the e-form, website or directly reply to the e-amil. Check the greeting in the content. Legimate organisation used customer name rather than generic wording like "Hello" or "Dear value customer". If you think you did something react to any form from the above, stay claim and contact your service provider and seek for further steps. Change your passwords to the one stronger and perform "full scan" witn antivirus program to search for unauthorised malware infection. Enable Multi-Factor Authentication (MFA) while this is work with your cellphone message by receiving one time passcode (OTP).  It helps adds an additional layer of security.
+
+Another form of cyber crime is social engineering, it is a deception or psychological tactics to manipulate individuals into actions or divulging confidential information. For example, a common tactic is baiting, a hit selling product listed price lower than market price. To avoid social engineering trick, alway thinking of "WHY" and verify the legitimacy of urgent or unexpected requests, especially those involving money or sensitive data. Social engineers may try to build rapport or intimidate you into acting without thinking. Contact the requester using official contact details, not the ones provided in the suspicious communication or you searched from the trusted search engine. The trusted contact point always printed on the official issed materials, at the back of the card or certification, or show on official website. In a long run, Avoid oversharing on social media or publicly accessible platforms, as this information can be used to manipulate you. If you're part of an organization lead with differnet team, please educate your team ensure them are aware of social engineering risks and know how to respond.
+
+Finally, to deal with malware attack, a authorised program store into a device or network to steal data, disrupt operations, or cause damage, do not download files from untrusted sources. Be cautious of file extensions like .exe, .bat, .scr, or even disguised office files (.pdf or .docx). Particularly when you see the attachment in unsolicted e-mail. If you computer or network build with firewall, enable it to block unauthorised access. When you browe a website with pop-ups and Ads, avoid clicking on pop-up ads or suspicious online ads, as they may contain malicious code directly attack your machine.  When you deal with external storage devices like USB drives or external storage devices, scan with antivirus tool before accessing their files.
+
+To conclude, whenever you encounter or supisous hit by any cyber crime mentioned above, the first step is to scan the comptuer with an trusted antivirus tool. When choosing the antivirus tool, the real malware detection rates of the antivirus is the best condition reflect it is powerful antivirus tool. The best antivirus program also come with additional features such as password management, safe browsing extensions, or parental controls. Consider the paid or subscribe antivirus program rather than free software while many of these software only provided basic feature. If you got a antivirus program installed, scan the system periodically and make sure update the virus database frequenctly. Enable automatic updates where possible.
+

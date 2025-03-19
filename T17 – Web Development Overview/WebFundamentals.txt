@@ -1,0 +1,22 @@
+1. What is Web 3.0 and how is it different from Web 1.0 and Web 2.0?
+
+Web 1.0 was the first generation of the internet, where websites were mostly static pages with little to no interaction—people could only read content, not engage with it. 
+
+Web 2.0, which made the internet social and interactive, introducing platforms like Facebook, Wikipedia, and YouTube, where users could create, share, and collaborate on content. 
+
+Web 3.0 is emerging as the next evolution, aiming to give users more control over their data, improve security and privacy, and enable smarter, decentralized applications powered by technologies like blockchain and AI. This shift moves power away from high-profile with robust technologies companies and towards general users.
+
+2. What are the functional differences between the front end of a web application and its back end? 
+
+Ans:
+The front-end of a web application focuses on what users see and interact with in the browser, using computer languages like HTML, CSS, and JavaScript to create the layout and interactive elements. It is the presentation layer requiring creativity. Its emphasizes user experience and visuals
+
+The back-end is the behind-the-scenes that running the application, maintaining databases, servers, and APIs using languages like Python. It is the data access layer, responsible for processing requests, storing information, and ensuring functionality. Its prioritizes security and performance.
+
+
+3. In your own words, explain the process that takes place from when you type a URL into the address bar in your browser until you finally view the page you have requested. 
+
+Ans:
+When you type a website address (URL) into browser and press enter, the browser first checks how to find the site by translating the domain name (like google.com) into an IP address using DNS resolution. Once found, the browser establishes a connection with the web server using TCP/IP. The browser then sends an HTTP request asking for the webpage, and the web server processes this request, retrieving data from a database. The server responds with a common language called HTML, CSS, and JavaScript, which the browser can translate them into a visible webpage. Finally, the browser displays the content, allowing user interactions like clicking links, scrolling, and further loading data dynamically.
+
+ 
