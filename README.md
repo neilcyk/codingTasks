@@ -1,6 +1,12 @@
-Add a detailed README file for each practical coding task that you have pushed to GitHub. A reminder that README files should contain the following:
+# Technical portfolio created for Cyber Security Fundamental Bootcamp 2024-25
 
-○ The coding task name.
+### DESCRIPTION
+
+## Table of Content
+- [Installation](#Installation)
+- [USAGE](#Usage)
+- [CREDITS](#CREDITS)
+
 Task 1 - Pre-Assessment MCQ
 
 Task 2 - Getting Started with Your Bootcamp
@@ -55,6 +61,11 @@ Task 26 - A Toolbox for Ethical Hacking
 
 Task 27 - Post-Assessment MCQ
 
+## Installation
+
+## Usage
+
+## Credits
 
 ○ A clear, short, and to-the-point **DESCRIPTION** of your coding task. Describe what it does, and why learning this aspect of coding is important.
 
